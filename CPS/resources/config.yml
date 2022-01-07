@@ -1,0 +1,23 @@
+
+CPS Popup: "§c§lCPS: §r§a"
+On Join: "true"
+
+CPS Alerts: "§7[§cAlerts§7] §b{playername} §eis clicking §c{cps} §eCPS"
+CPS Alert Cooldown: 3
+
+CPS Limit: 30
+Amount of CPS: 24
+
+Enabled Popup: "§aYour CPS popup has been Enabled."
+Disabled Popup: "§cYour CPS popup has been Disabled."
+
+Discord Webhook:
+
+  Enabled: "false"
+  Webhook URL: ""
+  Embed Message: "**{playername}** is clicking **{cps}** CPS"
+  Name: "Silhouette CPS"
+  Avatar: "https://i.imgur.com/DmJbCqA.png"
+  Title: "**[Alert]**"
+  Footer: "Silhouette.mcpe.lol"
+  Color: "0x690d9b"

@@ -1,0 +1,11 @@
+name: CPS
+api: 3.0.0
+version: 1.0.0
+mcpe-protocol: 448
+author: Dready
+main: Dready\CPS\Main
+description: CPS Counter
+commands:
+  cps:
+    usage: "§cUsage: /cps <on/off>"
+    description: Enable/Disable your CPS Counter popup
